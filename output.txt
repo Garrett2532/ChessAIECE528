@@ -1,0 +1,12 @@
+generated 0 boards
+generated 500 boards
+generated 1000 boards
+generated 1500 boards
+Uncompressed Model
+It took the uncompressed model 47.327 seconds to evaluate 2000 boards with an average time of 0.0000264 seconds per board 
+ 
+
+Compressed Model
+It took the compresed model 4.516 seconds to evaluate 2000 boards with an average time of 0.0000025 seconds per board 
+ 
+
